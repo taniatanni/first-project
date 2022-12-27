@@ -1,0 +1,106 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.container {
+    background-color: #e5e5fd;
+    border: 10px;
+    min-height: 100vh;
+    border: 5px solid #1d1e4c;
+}
+
+.content {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.top_section {
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.top_section h1 {
+    font-size: 50px;
+    font-weight: bold;
+    color: #1d1e4c;
+    text-transform: uppercase;
+}
+
+.top_section h4 {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: end;
+    color: #1d1e4c;
+
+}
+
+
+.image_container,
+img {
+    width: 300px;
+    height: 320px;
+    border-radius: 50%;
+
+}
+
+.about_section {
+    margin-top: 50px;
+}
+
+.about_section h2 {
+    font-size: 70px;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+
+.about_section p {
+    font-size: 20px;
+    list-style: 30px;
+    letter-spacing: 1px;
+}
+
+
+.Early life and Education {
+    margin-top: 50px;
+}
+
+.Early life and Education h2 {
+    font-size: 70px;
+    font-weight: 400;
+    margin-bottom: 10px;
+}
+
+.Early life and Education p {
+    font-size: 50px;
+    list-style: 30px;
+    letter-spacing: 1px;
+}
+
+
+.Awards_section {
+    margin-top: 20px;
+}
+
+.Awards_section h2 {
+    font-size: 70px;
+    font-weight: 400;
+    margin-bottom: 10px;
+}
+
+.Awards_section ul {
+    margin-left: 30px;
+}
+
+.Awards_section li {
+    margin-bottom: 15px;
+}
+
+footer {
+    margin: 50px 0;
+}
+
+footer p {
+    text-align: end;
+}
